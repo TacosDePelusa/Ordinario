@@ -33,13 +33,13 @@
                         <a href="Productos.php" class="nav-menu-link nav-link ">Productos</a>
                     </li>
                     <li class="nav-itemn2">
-                        <a href="Principal.php" class="nav-menu-link nav-link  ">Pizzas</a>
+                        <a href="Pizzas.php" class="nav-menu-link nav-link  ">Pizzas</a>
                     </li>
                     <li class="nav-itemn2">
-                        <a href="Productos.php" class="nav-menu-link nav-link ">Pastas</a>
+                        <a href="Pastas.php" class="nav-menu-link nav-link ">Pastas</a>
                     </li>
                     <li class="nav-itemn2">
-                        <a href="Carrito.php" class="nav-menu-link nav-link ">Postres</a>
+                        <a href="Postres.php" class="nav-menu-link nav-link ">Postres</a>
                     </li>
                     <li class="nav-itemn2">
                         <a href="Carrito.php" class="nav-menu-link nav-link ">Carrito</a>
@@ -58,13 +58,13 @@
               <p class="card-title">Pizza de Pierna (Tomate, Queso, Jamon y Pierna)</p>
               <p class="card-title">Pizza de Pierna- Grande</p>
               <p class="card-text">$130.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Mediana</p>
               <p class="card-text">$120.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Chica</p>
               <p class="card-text">$110.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
            
@@ -80,13 +80,13 @@
               <p class="card-title">Pizza de Camarones (Tomate, Queso, Camaron)</p>
               <p class="card-title">Pizza de Pierna- Grande</p>
               <p class="card-text">$130.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Mediana</p>
               <p class="card-text">$120.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Chica</p>
               <p class="card-text">$110.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <div class="d-flex justify-content-between align-items-center">
                 
                 <div class="btn-group">
@@ -103,13 +103,13 @@
               <p class="card-title">Pizza de Jamon Ahumado con Champiñones (Tomate, Queso, Jamon Ahumado y Champiñones)</p>
               <p class="card-title">Pizza de Pierna- Grande</p>
               <p class="card-text">$130.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Mediana</p>
               <p class="card-text">$120.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Chica</p>
               <p class="card-text">$110.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                
@@ -127,13 +127,13 @@
               <p class="card-title">Pizza de Tocino (Tomate, Queso, Jamon y Tocino)</p>
               <p class="card-title">Pizza de Pierna- Grande</p>
               <p class="card-text">$130.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Mediana</p>
               <p class="card-text">$120.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Chica</p>
               <p class="card-text">$110.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 
@@ -150,13 +150,13 @@
               <p class="card-title">Pizza de Tocino y Chile dulce (Tomate, Queso, Tocino y Chile dulce)</p>
               <p class="card-title">Pizza de Pierna- Grande</p>
               <p class="card-text">$130.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Mediana</p>
               <p class="card-text">$120.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <p class="card-title">Pizza de Pierna- Chica</p>
               <p class="card-text">$110.00</p>
-              <a href="" class="btn btn-success">agregar</a>
+              <a href="" class="btn btn-success">Agregar</a>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 
