@@ -23,5 +23,34 @@
                 </ul>
         </nav>
     </header>
+    <h2 id="Titulo">
+    Formulario de registro 
+   </h2>
+   <br><br><hr>
+   <fieldset>
+        <legend id="Titulo2">Ingresa tus Datos</legend>
+              <label  for="name" class="txt">Nombre</label>
+              <br>
+              <input class="C" type="text" id="name" name="user_name">
+              <br>
+
+              <label for="phone" class="txt">Teléfono</label>
+              <br>
+              <input class="C"type="text" id="phone" name="user_number">
+              <br>
+
+              <label for="mail" class="txt">Correo Electronico</label>
+              <br>
+              <input class="C"type="email" id="mail" name="user_mail">              
+              <br>
+
+              <label for="adress" class="txt">Dirección</label>
+              <br>
+              <input class="C"type="text" id="adress" name="user_adress">              
+              <br>
+              </fieldset>
+      <br>
+          <input class="D" type="submit" value="Registrarse">
+</form>
 </body>
 </html>

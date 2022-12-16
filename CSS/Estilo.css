@@ -69,3 +69,34 @@ body.cuerpo{
 .foto1{
     width: 35%;
 }
+h2.subt{
+    background-color:darkred;
+    color:white;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size:large;
+    font-weight: bolder;
+}
+.txt{
+    background-color: crimson;
+    color:white;
+    margin-left: 600px;
+    font-size: large;
+    font-weight: bold;
+}
+.C{
+    text-align:center;
+    margin-left: 600px;
+}
+#Titulo2{
+    background-color:darkred;
+    color:white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.D{
+    text-align:center;
+    margin-left: 600px;
+}
