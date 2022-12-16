@@ -27,6 +27,7 @@
     Formulario de registro 
    </h2>
    <br><br><hr>
+   <form action="Logic/loguear.php" method="POST">
    <fieldset>
         <legend id="Titulo2">Ingresa tus Datos</legend>
               <label  for="name" class="txt">Nombre</label>

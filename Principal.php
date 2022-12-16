@@ -1,5 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
+<?php
+    session_start();
+    $usuario = $_SESSION['username'];
+    echo "<h1>Bienvenido $usuario</h1>";
+?>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
