@@ -1,0 +1,36 @@
+.navigator{
+    display: flex;
+    justify-content: start;  
+    background-color: crimson;
+    width: fit-content;  
+}
+.nav-link{
+    color:white;
+    text-decoration: none;
+}
+.nav-menu{
+    display: flex;
+    list-style: none;
+}
+.nav-itemn{
+    font-size: 15px;
+    margin: 0 80px;
+    line-height: 200px;
+    text-transform: uppercase;
+    width: max-content;
+    font-size:x-large;
+}
+
+.nav-menu-link{
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.logo{
+ width: 200px;
+ height: 200px;
+}
+body.cuerpo{
+    background-image: url("https://t3.ftcdn.net/jpg/03/40/93/00/360_F_340930009_WtmPbofCmuBGo3SxTR59e3qUrUs8Bm2Y.jpg");
+    background-repeat:repeat;
+    background-position: center;
+}
