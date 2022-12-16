@@ -18,12 +18,6 @@
                         <a href="Principal.php" class="nav-menu-link nav-link  ">Inicio</a>
                     </li>
                     <li class="nav-itemn">
-                        <a href="Productos.php" class="nav-menu-link nav-link ">Productos</a>
-                    </li>
-                    <li class="nav-itemn">
-                        <a href="Carrito.php" class="nav-menu-link nav-link ">Carrito</a>
-                    </li>
-                    <li class="nav-itemn">
                         <a href="Registro.php" class="nav-menu-link nav-link ">Registro</a>
                     </li>
                 </ul>

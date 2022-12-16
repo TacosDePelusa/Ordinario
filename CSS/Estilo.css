@@ -52,5 +52,20 @@ body.cuerpo{
 .texto{
     background-color: crimson;
     color:white;
+    text-align:center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: large;
+}
+#Titulo{
+    background-color:darkred;
+    color:white;
     text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.foto1{
+    width: 35%;
 }
